@@ -11,3 +11,9 @@ Machine learning project on classification of electric vehicle type.
 <p style='text-align: justify;'> Electric Vehicle Population. </p>
 
 (https://catalog.data.gov/dataset/electric-vehicle-population-data)
+
+<font size="5">Result</font>
+
+
+![image](https://github.com/Mansi21987/Electric-Vehicle-Population-Classification/assets/150307610/0f439ed9-21c8-4b97-82b0-e04275389a78)
+
