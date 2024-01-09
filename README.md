@@ -1,5 +1,6 @@
 # Electric-Vehicle-Population-Classification
 Machine learning project on classification of electric vehicle type.
+
 <font size="5">Background</font>
 <p style='text-align: justify;'> With the burgeoning electric vehicle market, precise classification of electric vehicle types becomes pivotal for stakeholders such as manufacturers, policymakers, and consumers. This project addresses the growing need for accurate categorization of Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV) to inform infrastructure planning, policy formulation, and targeted market strategies, thereby contributing to the evolution of electric vehicle research and decision-making processes.</p>
 
