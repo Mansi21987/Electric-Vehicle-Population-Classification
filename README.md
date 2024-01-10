@@ -19,4 +19,5 @@ Machine learning project on classification of electric vehicle type.
 
 <font size="5">Feature Importance</font>
 
+![Untitled](https://github.com/Mansi21987/Electric-Vehicle-Population-Classification/assets/150307610/da0f8030-6966-4aa2-848d-711b518dcada)
 
